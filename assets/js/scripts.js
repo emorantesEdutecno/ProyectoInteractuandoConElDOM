@@ -50,7 +50,6 @@ $(document).ready( ()=>{
         $('#parrafo3').css('background-color', 'papayawhip');
     });
 
-    
     $('#btnCambiarTodosColores').click(()=>{
         $('p').css('background-color', 'olive');
 
